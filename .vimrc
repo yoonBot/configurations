@@ -1,0 +1,24 @@
+set number
+syntax on
+set tabstop=4
+set autoindent
+set expandtab
+set softtabstop=4
+set cursorline
+set cindent
+set ai 
+set si
+set smartindent
+set shiftwidth=4
+set ignorecase
+set hlsearch
+set nocompatible
+set fileencodings=utf-8,euc-kr
+set fencs=ucs-bom,utf-8,euc-kr
+set bs=indent,eol,start
+set ruler
+set title
+set showmatch
+set wmnu
+filetype indent on
+set mouse=a
